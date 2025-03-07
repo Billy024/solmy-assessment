@@ -11,6 +11,7 @@
 
 * Note: This code is meant to connect to the device's localhost mongoDB instance. You many change this setup in mongodb/mongo.js
 
+GETTING STARTED
 1) Run following command to install all the necessary modules
 npm install
 
