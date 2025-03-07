@@ -36,3 +36,7 @@ GETTING STARTED
 
 5) run the following command to check the status of the replica set to ensure it is properly configured:  
 ```rs.status()```
+
+6) run the following command to start up your server with nodemon  
+```npm install -g nodemon```
+```nodemon app```  
