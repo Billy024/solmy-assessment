@@ -1,0 +1,6 @@
+storage:
+  dbPath: C:\src\mongoDB\db3
+net:
+  port: 27019
+replication:
+  replSetName: rs0
